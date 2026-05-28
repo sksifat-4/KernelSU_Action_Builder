@@ -82,7 +82,7 @@ jobs:
           curl \
           dwarves \
           cpio \
-          Id.lld \
+          ld.lld \
           gcc-aarch64-linux-gnu \
           gcc-arm-linux-gnueabi
           
